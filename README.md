@@ -11,4 +11,5 @@ This is the inital Hackntosh version being installed on the hardware below. Hope
 - G.Skill 32GB @ 3600mhz (4 X 8GB)
 - Sabrent SSD 512Gb
 - MSI Radeon 580 8Gb
+- Fenvi T919 Wifi/BT
 - PSU 500W
